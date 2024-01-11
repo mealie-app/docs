@@ -19,3 +19,5 @@ mealie is innovating the way we approach nutrition and meal planning. Born from 
 - **Typesense**: Employed for fast and typo-tolerant search capabilities.
 - **Trello**: Used for project management and task tracking.
 - **Figma & FigJam**: Figma is our primary tool for UI/UX design, while FigJam supports brainstorming and collaborative ideation.
+
+## Roadmap
