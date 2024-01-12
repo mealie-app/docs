@@ -30,3 +30,10 @@ As we continue to grow and improve mealie, here's a roadmap of our next steps to
 
 3. **Expanding Our Food Database for DACH**: Our goal is to deliver a robust food database for DACH (Germany, Austria, and Switzerland) along with the barcode scanner feature. This database will be a comprehensive resource for both meal planning and tracking, providing you with a complete nutrition solution.
 
+## Contact
+
+At mealie, we believe in working backward from users. Your feedback is incredibly valuable to us, and we actively incorporate it into our development process. Please feel free to reach out to us via email at [info@mealie.de](mailto:info@mealie.de) with your questions, inquiries, or ideas. We look forward to hearing from you!
+
+
+
+
