@@ -20,4 +20,13 @@ mealie is innovating the way we approach nutrition and meal planning. Born from 
 - **Trello**: Used for project management and task tracking.
 - **Figma & FigJam**: Figma is our primary tool for UI/UX design, while FigJam supports brainstorming and collaborative ideation.
 
-## Roadmap
+## What's Next for mealie?
+
+As we continue to grow and improve mealie, here's a roadmap of our next steps towards enhancing your experience:
+
+1. **Algorithm Optimization**: Our algorithm optimization aims to make mealie more efficient, effective, and user-friendly. With this enhancement, you can expect improved nutrition planning and meal suggestions tailored precisely to your dietary goals.
+
+2. **Onboarding Excellence and Pricing Strategy**: We're focused on making the onboarding process intuitive and ensuring that new users find mealie ready to use. We're also working on providing clear pricing options, including both monthly and annual subscriptions.
+
+3. **Expanding Our Food Database for DACH**: Our goal is to deliver a robust food database for DACH (Germany, Austria, and Switzerland) along with the barcode scanner feature. This database will be a comprehensive resource for both meal planning and tracking, providing you with a complete nutrition solution.
+
